@@ -55,8 +55,6 @@ Dates: September 2017 - Present (5 years, 10 months)
 
 ## Education
 
-<br>
-
 ### Certificate in Full-Stack Development
 
 [Flatiron School](https://www.flatironschool.com), January 2017 - May 2017
@@ -87,6 +85,8 @@ Company: iCanCode Club, Rochester NY
 Title: Instructor / Program Coordinator
 
 Dates: August 2016 - January 2017
+
+<br>
 
 Company: Apple Retail, Raleigh NC
 
