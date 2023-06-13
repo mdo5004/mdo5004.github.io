@@ -10,13 +10,9 @@ LinkedIn: https://www.linkedin.com/in/michaeldavidoconnell/
 
 GitHub: https://github.com/mdo5004
 
----
-
 ## Summary
 
 Full stack developer with almost 6 years experience building custom in-house web apps and pixel-perfect eCommerce websites from scratch. Driven to solve complex problems by designing intuitive user interfaces.
-
----
 
 ## Relevant Experience
 
@@ -26,8 +22,6 @@ Title: Software Developer
 
 Dates: September 2017 - Present (5 years, 10 months)
 
----
-
 ## Technologies
 
 - Frontend: JavaScript, TypeScript, React, Next.js, Redux, Material UI, CSS-in-JS
@@ -35,8 +29,6 @@ Dates: September 2017 - Present (5 years, 10 months)
 - Testing: Cypress.io, Playwright, Jest/Mocha/Chai
 - Other: Nrwl/Nx, MJML
 - Familiarity: Ruby on Rails, Postgres
-
----
 
 ## Projects
 
@@ -60,8 +52,6 @@ Dates: September 2017 - Present (5 years, 10 months)
 - Designed and built a real-time order management system using React, Node.js and Firebase, which process $3.5M+ in sales each year
 - Designed and built UI modules for customizing products, updating orders, tracking shipments, analyzing customer behavior, etc., using Material UI and custom components
 - Integrated with Etsy and ShipStation APIs to streamline business processes
-
----
 
 ## Education
 
@@ -90,8 +80,6 @@ North Carolina State University, 2011-2013
 
 Pennsylvania State University, 2005-2009
 
----
-
 ## Other Experience
 
 Company: iCanCode Club, Rochester NY
@@ -99,8 +87,6 @@ Company: iCanCode Club, Rochester NY
 Title: Instructor / Program Coordinator
 
 Dates: August 2016 - January 2017
-
----
 
 Company: Apple Retail, Raleigh NC
 
