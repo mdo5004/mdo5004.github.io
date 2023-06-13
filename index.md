@@ -55,28 +55,35 @@ Dates: September 2017 - Present (5 years, 10 months)
 
 ## Education
 
-### Certificate in Full-Stack Development
+Certificate in Full-Stack Development
 
-[Flatiron School](https://www.flatironschool.com), January 2017 - May 2017
+[Flatiron School](https://www.flatironschool.com)
+
+January 2017 - May 2017
 
 <br>
 
-### Ph.D., Chemical Engineering (DNF)
+Ph.D., Chemical Engineering (DNF)
 
-North Carolina State University,
+North Carolina State University
+
 2011-2016
 
 <br>
 
-### M.S., Chemical Engineering
+M.S., Chemical Engineering
 
-North Carolina State University, 2011-2013
+North Carolina State University
+
+2011-2013
 
 <br>
 
-### Bachelor of Arts, Music
+Bachelor of Arts, Music
 
-Pennsylvania State University, 2005-2009
+Pennsylvania State University
+
+2005-2009
 
 ## Other Experience
 
