@@ -6,9 +6,9 @@ Email: michaeldavidoconnell@gmail.com
 
 Cell: 919-948-8086
 
-LinkedIn: https://www.linkedin.com/in/michaeldavidoconnell/
+LinkedIn: [https://www.linkedin.com/in/michaeldavidoconnell/](https://www.linkedin.com/in/michaeldavidoconnell/)
 
-GitHub: https://github.com/mdo5004
+GitHub: [https://github.com/mdo5004](https://github.com/mdo5004)
 
 ## Summary
 
