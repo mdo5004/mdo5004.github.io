@@ -1,102 +1,76 @@
-# Michael O’Connell - Full Stack Developer
+# Michael O’Connell
+
+Full Stack Web Developer at [Shine Wedding Invitations](https://www.shineweddinginvitations.com)
 
 ## Contact
 
-Email: michaeldavidoconnell@gmail.com
+michaeldavidoconnell@gmail.com
 
-Cell: 919-948-8086
+919-948-8086
 
 LinkedIn: [https://www.linkedin.com/in/michaeldavidoconnell/](https://www.linkedin.com/in/michaeldavidoconnell/)
 
-GitHub: [https://github.com/mdo5004](https://github.com/mdo5004)
-
 ## Summary
 
-Full stack developer with almost 6 years experience building custom in-house web apps and pixel-perfect eCommerce websites from scratch. Driven to solve complex problems by designing intuitive user interfaces.
+Detail-oriented Full Stack Web Developer with 7 years of experience in managing and optimizing complex web applications. Proven expertise in transforming UI designs into pixel-perfect components and TypeScript, React, and NextJS. Skilled in building modular front-end code, developing tools, and troubleshooting bugs to enhance both customer and team member experiences. Adept at leading projects, montoring junior developers, and utilizing modern front-end practices to drive innovation and efficiency.
 
-## Relevant Experience
+## Experience
 
-Company: Shine Wedding Invitations
+### Software Developer
 
-Title: Software Developer
+Shine Wedding Invitations
 
-Dates: September 2017 - Present (5 years, 10 months)
+September 2017 - Present (7 years)
 
-## Technologies
+- **Led a multi-year e-commerce website transformation**, employing TypeScript and React to enhance performance, stability, and user experience across [the platform](https://www.shineweddinginvitations.com).
+- **Developed and optimized a wide range of React components**, adhering to Adobe XD design specifications and ensuring pixel-perfect accuracy and WCAG accessibility standards.
+- **Designed and implemented a dynamic stationery customization tool**, utilizing SVG files [for real-time updates and improving user interaction](https://www.shineweddinginvitations.com/configure/wedding-invitations).
+- **Created and maintained a design system with detailed documentation**, fostering consistent component use and collaboration across teams.
+- **Built a custom CMS and CI/CD pipeline**, streamlining content management and deployment processes to enhance operational efficiency.
+- **Engineered an integrated monorepo and custom order management system**, optimizing code sharing and business operations.
+- **Mentored a junior developer**, providing guidance on best practices in front-end development, code reviews, and accessibility standards.
 
-- Frontend: JavaScript, TypeScript, React, Next.js, Redux, Material UI, CSS-in-JS
-- Backend: Node.js, Firebase (NoSQL), Google Cloud Platform
-- Testing: Cypress.io, Playwright, Jest/Mocha/Chai
-- Other: Nrwl/Nx, MJML
-- Familiarity: Ruby on Rails, Postgres
+### Graduate Research Assistant
 
-## Projects
+North Carolina State University
 
-### Shine Website v5
+Raleigh, NC
 
-- Led development of and migration to the all-new [shineweddinginvitations.com](https://www.shineweddinginvitations.com)
-- Developed our brand-new [interactive stationery customizer](https://www.shineweddinginvitations.com/configure/wedding-invitations), [style quiz](https://www.shineweddinginvitations.com/stationery-quiz), and [account features](https://www.shineweddinginvitations.com/account).
-- Worked with Graphic Design and Marketing Teams to design and build thousands of [product](https://www.shineweddinginvitations.com/wedding-invitations/poppy-wedding-invitations), [category](https://www.shineweddinginvitations.com/weddings/wedding-invitations) and [landing pages](https://www.shineweddinginvitations.com/reviews)
-- Built an integrated [Nx monorepo](https://nx.dev) to share code across Next.js, Node.js, and single-page React applications
-- Built thousands of React components with TypeScript and Storybook
-- Wrote hundreds of Jest, Playwright and Cypress tests
-- Helped hire and mentor a junior developer
+2011 - 2016 (5 years)
 
-### Shine Website v5 CMS
+- **Led cutting-edge research in biomolecular engineering**, managing multiple projects and demonstrating strong problem-solving and analytical skills.
+- **Presented research findings at national conferences**, honing public speaking and presentation abilities.
+- **Mentored and tutored students**, developing strong communication, organization, and teaching skills.
+- **Authored scholarly papers**, showcasing [technical writing expertise](https://doi.org/10.1371/journal.pcbi.1004159) and attention to detail.
 
-- Designed and built a custom headless CMS using Material UI, React, and Firebase
-- Built serverless Express API using for consumption by Shine Website v5
+## Skills
 
-### Shine Order Manager
-
-- Designed and built a real-time order management system using React, Node.js and Firebase, which process $3.5M+ in sales each year
-- Designed and built UI modules for customizing products, updating orders, tracking shipments, analyzing customer behavior, etc., using Material UI and custom components
-- Integrated with Etsy and ShipStation APIs to streamline business processes
+- **Front-End Development**: React (Hooks, Context API), TypeScript, NextJS, Styled Components, Storybook, Webpack, Babel, HTML, CSS, JavaScript
+- **Back-End Development**: Node.js, Express, RESTful APIs, Google Cloud Platform, Firebase, NoSQL, SQL
+- **Test-Driven Development**: Playwright, Cypress, Jest, Mocha, Chai
+- **Accessibility & Performance**: WCAG 2.2 A/AA, Lighthouse
+- **Other**: Nrwl/Nx Monorepo, Git, CI/CD, Adobe XD, SVG, Linux, Bash
 
 ## Education
 
-Certificate in Full-Stack Development
+### Full Stack Development
 
-[Flatiron School](https://www.flatironschool.com)
+Flatiron School
 
-January 2017 - May 2017
+2017
 
-<br>
-
-Ph.D., Chemical Engineering (DNF)
+### Master of Science in Chemical Engineering
 
 North Carolina State University
+
+Raleigh, NC
 
 2011-2016
 
-<br>
-
-M.S., Chemical Engineering
-
-North Carolina State University
-
-2011-2013
-
-<br>
-
-Bachelor of Arts, Music
+### Bachelor of Arts in Music
 
 Pennsylvania State University
 
+University Park, PA
+
 2005-2009
-
-## Other Experience
-
-Company: iCanCode Club, Rochester NY
-
-Title: Instructor / Program Coordinator
-
-Dates: August 2016 - January 2017
-
-<br>
-
-Company: Apple Retail, Raleigh NC
-
-Title: Specialist
-
-Dates: July 2009 - November 2009
