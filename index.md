@@ -12,7 +12,7 @@ LinkedIn: [https://www.linkedin.com/in/michaeldavidoconnell/](https://www.linked
 
 ## Summary
 
-Detail-oriented Full Stack Web Developer with 7 years of experience in managing and optimizing complex web applications. Proven expertise in transforming UI designs into pixel-perfect components and TypeScript, React, and NextJS. Skilled in building modular front-end code, developing tools, and troubleshooting bugs to enhance both customer and team member experiences. Adept at leading projects, montoring junior developers, and utilizing modern front-end practices to drive innovation and efficiency.
+Detail-oriented Full Stack Web Developer with 7 years of experience in managing and optimizing complex web applications. Proven expertise in transforming UI designs into pixel-perfect components and TypeScript, React, and NextJS. Skilled in building modular front-end code, developing tools, and troubleshooting bugs to enhance both customer and team member experiences. Adept at leading projects, mentoring junior developers, and utilizing modern front-end practices to drive innovation and efficiency.
 
 ## Experience
 
