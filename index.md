@@ -1,5 +1,3 @@
-# Michael O’Connell
-
 Full Stack Web Developer at [Shine Wedding Invitations](https://www.shineweddinginvitations.com)
 
 ## Contact
@@ -12,23 +10,67 @@ LinkedIn: [https://www.linkedin.com/in/michaeldavidoconnell/](https://www.linked
 
 ## Summary
 
-Detail-oriented Full Stack Web Developer with 7 years of experience in managing and optimizing complex web applications. Proven expertise in transforming UI designs into pixel-perfect components and TypeScript, React, and NextJS. Skilled in building modular front-end code, developing tools, and troubleshooting bugs to enhance both customer and team member experiences. Adept at leading projects, mentoring junior developers, and utilizing modern front-end practices to drive innovation and efficiency.
+Accomplished Senior Software Engineer with 9 years of experience in React, TypeScript, Next.js, and Node.js,
+spanning large-scale platform engineering and independent consultancy. Proven track record architecting
+high-throughput e-commerce systems, including an enterprise monorepo platform processing $3.5M+
+annually and custom client solutions driving 85% revenue growth. Skilled in design systems, headless
+architectures, and testing infrastructure, with a strong background mentoring developers and leading cross-
+functional execution.
+
+## Skills
+
+- **Front-End Development**: React (Hooks, Context API), TypeScript, Next.js, Styled Components, Storybook, Webpack, Babel, HTML, CSS, JavaScript
+- **Back-End Development**: Node.js, Express, RESTful APIs, Google Cloud Platform (GCP), Firebase, NoSQL, SQL
+- **Test-Driven Development**: Playwright, Cypress, Jest, Mocha, Chai
+- **Accessibility & Performance**: WCAG 2.2 A/AA, Lighthouse
+- **Other**: Nrwl/Nx Monorepo, Git, CI/CD, Adobe XD, SVG, Linux, Bash
 
 ## Experience
 
-### Software Developer
+### Owner/Lead Developer
+
+Evergreen Codeworks LLC
+
+Center Valley, PA
+
+March 2025 - Present
+
+- **Business & Client Impact**: Founded and operate an independent software consultancy delivering custom e-
+  commerce and web development solutions.
+- **Shopify Storefront Re-Architecture**: Led end-to-end site rebrand and storefront overhaul for ENALAS
+  Group, collaborating with a lead graphic designer to transform UX/UI, resulting in a doubling of conversion
+  rates from 0.65% to 1.34% and a storefront revenue increase of 85% year over year.
+- **AI-Assisted Development**: Leveraged generative AI tooling to accelerate custom Liquid template
+  generation, component design, and theme customization, reducing deployment timelines.
+- **B2B Infrastructure**: Implemented and configured SparkLayer B2B solutions, introducing tiered pricing,
+  quick-order interfaces, and custom customer account portal rules.
+
+### Lead Software Developer
 
 Shine Wedding Invitations
 
-September 2017 - Present (7 years)
+Rochester, NY
 
-- **Led a multi-year e-commerce website transformation**, employing TypeScript and React to enhance performance, stability, and user experience across [the platform](https://www.shineweddinginvitations.com).
-- **Developed and optimized a wide range of React components**, adhering to Adobe XD design specifications and ensuring pixel-perfect accuracy and WCAG accessibility standards.
-- **Designed and implemented a dynamic stationery customization tool**, utilizing SVG files [for real-time updates and improving user interaction](https://www.shineweddinginvitations.com/configure/wedding-invitations).
-- **Created and maintained a design system with detailed documentation**, fostering consistent component use and collaboration across teams.
-- **Built a custom CMS and CI/CD pipeline**, streamlining content management and deployment processes to enhance operational efficiency.
-- **Engineered an integrated monorepo and custom order management system**, optimizing code sharing and business operations.
-- **Mentored a junior developer**, providing guidance on best practices in front-end development, code reviews, and accessibility standards.
+2017-2025
+
+- **Monorepo Architecture**: Built and maintained an integrated Nx monorepo sharing code across Next.js,
+  Node.js, and single-page React applications, significantly increasing code reuse and developer velocity.
+- **Component & Design Systems**: Authored a robust design system with React, TypeScript, and Storybook,
+  establishing UI consistency across thousands of product variants and storefront templates.
+- **Payment Integration**: Created a custom integration of a 3rd-party payment system into the checkout flow,
+  enabling Apple Pay for faster and more convenient user checkout.
+- **API & Headless Infrastructure**: Designed REST APIs using Node/Express and developed a custom headless
+  CMS leveraging Material UI and Firebase to streamline content publishing workflows.design & Migration\*:
+  Architected and led the complete migration to the new shineweddinginvitations.com storefront, delivering
+  enhanced site performance and a modern user experience.
+- **Order Management System**: Developed a real-time order management platform using React, Node.js, and
+  Firebase (NoSQL) that processed $3.5M+ in annual sales.
+- **Integrations & Operations**: Integrated Etsy and ShipStation APIs to automate order fulfillment, tracking,
+  and product updates, significantly reducing manual operational overhead.
+- **Infrastructure**: End-to-end testing coverage using Jest, Playwright, and Cypress, maintaining high system
+  stability across critical checkout and customization paths.
+- **Mentorship & Team Growth**: Participated in technical hiring and mentored junior developers through code
+  reviews, pairing, and architecture planning.
 
 ### Graduate Research Assistant
 
@@ -42,14 +84,6 @@ Raleigh, NC
 - **Presented research findings at national conferences**, honing public speaking and presentation abilities.
 - **Mentored and tutored students**, developing strong communication, organization, and teaching skills.
 - **Authored scholarly papers**, showcasing [technical writing expertise](https://doi.org/10.1371/journal.pcbi.1004159) and attention to detail.
-
-## Skills
-
-- **Front-End Development**: React (Hooks, Context API), TypeScript, NextJS, Styled Components, Storybook, Webpack, Babel, HTML, CSS, JavaScript
-- **Back-End Development**: Node.js, Express, RESTful APIs, Google Cloud Platform, Firebase, NoSQL, SQL
-- **Test-Driven Development**: Playwright, Cypress, Jest, Mocha, Chai
-- **Accessibility & Performance**: WCAG 2.2 A/AA, Lighthouse
-- **Other**: Nrwl/Nx Monorepo, Git, CI/CD, Adobe XD, SVG, Linux, Bash
 
 ## Education
 

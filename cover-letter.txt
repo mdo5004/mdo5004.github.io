@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Front End Developer position at True Anomaly. With over seven years of experience developing web applications, a Master’s degree in Chemical Engineering (having also completed all requirements for a PhD), and a passion for tackling complex technical challenges, I am excited about the opportunity to contribute to your mission of advancing space security and sustainability.
+
+True Anomaly’s dedication to building innovative technology at the intersection of spacecraft, software, and AI is inspiring, and I’m eager to apply my expertise in front-end development to contribute to your vision. In my previous roles, I have developed scalable, performant, and user-friendly web applications using React, TypeScript, and a variety of supporting libraries. I am well-versed in building custom UI components and integrating them with RESTful services and WebSocket-based systems, ensuring that the front-end interfaces I build are not only aesthetically pleasing but also robust and functional.
+
+What particularly excites me about this role is the opportunity to work on greenfield projects in a high-paced environment, while collaborating with a diverse team of space operators, engineers, and designers. I have always thrived in dynamic, cross-functional settings, and I’m confident that my strong communication skills and collaborative approach will allow me to contribute effectively to True Anomaly’s engineering efforts.
+
+Though I don’t have direct experience in aerospace, my background in engineering and experience solving complex technical problems have given me the analytical mindset necessary to tackle new challenges head-on. My academic and professional background has honed my ability to analyze, design, and optimize complex systems—a skill set I am eager to apply to True Anomaly’s ambitious goals.
+
+Thank you for considering my application. I am excited about the prospect of joining your team and contributing to your mission of safeguarding global security through innovative space technology. I look forward to the opportunity to discuss how my skills and experience align with the needs of True Anomaly.
+
+Best regards,
+Michael O'Connell
+919-948-8086
+michaeldavidoconnell@gmail.com
